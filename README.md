@@ -4,8 +4,9 @@ This is a simple python cli (command line interface) for downloading youtube vid
 
 
 ## Installation
+Reqiurements: **Python and pip**
 
-Donwload the latest release and extract the folder anywhere you like. Then execute the **'requirements-installer.bat'** (Windows) - This will install all requirements and dependencies.
+Donwload the latest release and extract the folder anywhere you like. Then execute the **'installer.bat'** (Windows) - This will install all requirements and dependencies.
 
 ## Usage
 
