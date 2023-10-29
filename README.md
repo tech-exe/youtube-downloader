@@ -24,4 +24,4 @@ Example:
 The files you downloaded will be in the root folder.
 
 ## Future updates
-I am planning on adding a GUI. We will see when I am doing this...
+I am planning on adding a GUI. We will see when I am doing this.
